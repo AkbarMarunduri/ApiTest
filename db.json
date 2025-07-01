@@ -1,14 +1,12 @@
 [
   {
-    "nama": "akbar marunduri",
-    "umur": 19
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
   },
   {
-    "nama": " marunduri",
-    "umur": 196
-  },
-  {
-    "nama": "akbar ",
-    "umur": 159
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
   }
 ]
